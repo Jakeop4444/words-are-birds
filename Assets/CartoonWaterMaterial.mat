@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CartoonWaterMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: ad75a970f3e4a3447a46dee78a9790dc,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_426E4936: 1.25
+    - Vector1_44942E79: 0.07
+    - Vector1_5C1B0439: 450
+    - Vector1_7ADDCD97: 5
+    m_Colors:
+    - Color_A28A7364: {r: 0.17647055, g: 0.68627447, b: 0.9529411, a: 0}
+    - Color_F604330C: {r: 0.22745094, g: 0.6784314, b: 0.9529412, a: 0}

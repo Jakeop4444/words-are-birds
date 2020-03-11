@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e23cdcbc0f6dffd4ab42adff3a2c686b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 72
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ciara_extended
+  fontNames:
+  - Ciara_extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d97b72588d787e74e84b489c0c918088, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
